@@ -1,0 +1,5 @@
+runs/
+*.zip
+*.pt
+v1_yolo26/
+v2_yolo26/
