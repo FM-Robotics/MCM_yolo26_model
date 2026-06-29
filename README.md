@@ -240,3 +240,11 @@ Planned improvements include:
 ## Additional information
 
 https://www.fm-sw.com/project-mission_autonomy.html
+
+## License
+
+This repository is released under the GNU Affero General Public License v3.0 (AGPL-3.0).
+
+The repository contains the training script, trained model, and documentation for a synthetic underwater object detection experiment based on the Ultralytics YOLO framework.
+
+The synthetic training dataset is not included.
