@@ -4,6 +4,8 @@ This repository documents a first **YOLO26s object-detection model** for synthet
 
 The model was trained on a synthetic underwater dataset generated from a Gazebo maritime scene. The dataset includes variation in ambient lighting, vehicle light intensity, water color, fog density, and image blur to approximate different underwater visibility conditions.
 
+![YOLO26 inference result](https://raw.githubusercontent.com/FM-Robotics/MCM_yolo26_model/main/inference_result.jpg)
+
 ---
 
 ## Model
