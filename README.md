@@ -10,7 +10,7 @@ The model was trained on a synthetic underwater dataset generated from a Gazebo 
 
 - **Architecture:** YOLO26s
 - **Task:** Object Detection
-- **Image size:** 640 × 640
+- **Image size:** 640 × 400
 - **Epochs:** 150
 - **Dataset size:** 288 synthetic images
 - **Train / Validation / Test split:** 70 / 20 / 10
