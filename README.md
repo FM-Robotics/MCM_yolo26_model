@@ -160,7 +160,7 @@ python train.py
 The trained model is stored in
 
 ```
-runs/mines_training_yolo26/weights/best.pt
+best.pt
 ```
 
 ---
@@ -169,7 +169,7 @@ runs/mines_training_yolo26/weights/best.pt
 
 ```bash
 yolo detect val \
-    model=runs/mines_training_yolo26/weights/best.pt \
+    model=best.pt \
     data=dataset/data.yaml \
     split=test \
     imgsz=640
