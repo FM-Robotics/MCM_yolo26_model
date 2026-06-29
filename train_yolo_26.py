@@ -9,13 +9,13 @@ def main():
     model = YOLO("yolo26s.pt")
 
     results = model.train(
-        data="/home/martina/maritime/yolo_model/v2_yolo26/data.yaml",
+        data="data.yaml",
         imgsz=640,
         epochs=150,
         batch=24,
         device=0,
         patience=0,
-        project="/home/martina/maritime/yolo_model/runs/",
+        project="/yolo_model/",
         name="mines_training_yolo26"
     )
 
