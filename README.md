@@ -236,3 +236,7 @@ Planned improvements include:
 - Additional environmental randomization
 - Instance segmentation for large structures (pipeline, quay wall)
 - Integration into a semantic world model for autonomous underwater navigation
+
+## Additional information
+
+https://www.fm-sw.com/project-mission_autonomy.html
